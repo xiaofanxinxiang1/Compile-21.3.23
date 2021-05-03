@@ -12,3 +12,5 @@ git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
 git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
+git clone https://github.com/garypang13/smartdns-le package/smartdns-le
+git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
